@@ -1,0 +1,3 @@
+# docker-context/requirements.txt
+# Leave it empty or add:
+# flask==2.3.2
